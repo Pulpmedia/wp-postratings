@@ -30,6 +30,8 @@
 }
 .post-ratings-image {
 	border: 0px;
+	width: 16px;
+	height: 16px;
 }
 .post-ratings IMG, .post-ratings-loading IMG, .post-ratings-image IMG {
 	border: 0px;

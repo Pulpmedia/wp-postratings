@@ -1,5 +1,5 @@
 {
-    "name": "WP-PostRatings",
+    "name": "wp-postratings",
     "type": "wordpress-plugin",
     "description": "Adds an AJAX rating system for your WordPress blog's post/page.",
     "version":"1.81",
